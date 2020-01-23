@@ -1,4 +1,4 @@
-# awesome-nlp-resources
+# NLP resources
 Its purpose is to keep an updated list of latest nlp libraries and frameworks. The main focus is on Python programming language. I plan to add more details to this repo in terms of pros and cons for each library. 
 
 
