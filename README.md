@@ -4,7 +4,7 @@ Its purpose is to keep an updated list of latest nlp libraries and frameworks. T
 
 ## NLP Libraries and Framework
 
-Note: The ordering is random. It doesn't mean ranking here.
+Note: The ordering is random.
 
 #### NLTK 
 It supports multiple languages and is suitable for both industry and research.
